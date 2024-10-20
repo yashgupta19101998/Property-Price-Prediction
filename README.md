@@ -2,6 +2,8 @@
 
 Tools used - Python
 
+Process - Finding out missing values, replaceing them with the appropriate values, finding out the outliers and visualizing the data set.
+
 Findings from Property Data Analysis
 This project involves analyzing real estate prices in Australia to test various hypotheses and answer statistical questions.
 
