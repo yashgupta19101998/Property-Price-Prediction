@@ -14,5 +14,4 @@ Key Findings
 4. Probability of 3 Rooms in Abbotsford: The chances of finding a property with 3 rooms in Abbotsford were determined and rounded to 3 decimal places.
 4. Probability of 2 Bathrooms in Abbotsford: The likelihood of finding a property with 2 bathrooms in Abbotsford was calculated and rounded to 3 decimal places.
    
-Feel free to adjust any part of this description to better fit your needs!
 
