@@ -1,7 +1,6 @@
 # Property-Price-Prediction
 
 Tools used - Python
-[Uploading DS 12 Property - Yash Gupta.py…]()
 
 Findings from Property Data Analysis
 This project involves analyzing real estate prices in Australia to test various hypotheses and answer statistical questions.
